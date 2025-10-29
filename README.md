@@ -1,5 +1,5 @@
 # 💫 About Me:
-Self-Motivated Curious Learner, enthusiast about Solving Mind-Challenging Problems, <br>Driven into Embedded Systems, Functional Safety, and Software Testing.<br><br>🔭 currently working on an automation testing script for E-commerce website<br>👯 looking to collaborate on Software testing projects<br>🌱 I’m currently learning Software testing @ DEPI<br>💬 Reach me at : Ahmedsaeed15298@gmail.com<br> 
+I'm Self-Motivated and Curious Learner, enthusiast about Solving Mind-Challenging Problems, <br>Driven into Embedded Systems, Functional Safety, and Software Testing.<br><br>🔭 currently working on an automation testing script for E-commerce website<br>👯 looking to collaborate on Software testing projects<br>🌱 I’m currently learning Software testing @ DEPI<br>💬 Reach me at : Ahmedsaeed15298@gmail.com<br> 
 
 
 ## 🌐 Socials:
