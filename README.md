@@ -1,7 +1,7 @@
 # 💫 About Me:
 I'm Self-Motivated and Curious Learner, enthusiast about Solving Mind-Challenging Problems, <br>Driven into Embedded Systems, Functional Safety, and Software Testing.<br><br>🔭 currently working on an automation testing script for E-commerce website<br>👯 looking to collaborate on Software testing projects<br>🌱 I’m currently learning Software testing @ DEPI<br>💬 Reach me at : Ahmedsaeed15298@gmail.com<br> 
 <p align="right">
-  <img src="https://github.com/Ahmad-Saeeed/Ahmad-Saeeed/blob/main/Gemini_Generated_Image_l9p3sxl9p3sxl9p3.png?raw=true" alt="Alt text">
+  <img src="https://github.com/Ahmad-Saeeed/Ahmad-Saeeed/blob/main/SW%20testing.png?raw=true" alt="SW Testing">
 </p>
 
 ## 🌐 Socials:
